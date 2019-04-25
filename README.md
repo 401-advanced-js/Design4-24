@@ -1,2 +1,1 @@
-# Design4-24
-Created with CodeSandbox
+Only changed the compenents/content and added content.scss
